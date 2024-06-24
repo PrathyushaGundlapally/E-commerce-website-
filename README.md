@@ -2,6 +2,7 @@ Kitty Website
 
 Welcome to Kitty, a frontend E-Commerce website  designed to bring you the best in pet supplies. This project is built using HTML, CSS, and JavaScript to create an interactive and engaging user experience.
 This is task 2 of INTERNPE web development internship. 
+
 Features:
     Interactive design with CSS media queries
     Interactive elements powered by JavaScript
